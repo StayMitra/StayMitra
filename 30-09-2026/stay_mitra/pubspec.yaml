@@ -1,0 +1,55 @@
+name: stay_mitra
+description: "A new Flutter project."
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.11.0
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^1.0.8
+  image_picker: ^1.1.2
+  sqflite: ^2.4.2+1
+  path: ^1.9.1
+  flutter_image_compress: ^2.4.0
+  path_provider: ^2.1.5
+  file_picker: ^10.3.3
+  open_filex: ^4.7.0
+  pdf: ^3.12.0
+  printing: ^5.14.3
+  google_mlkit_text_recognition: ^0.15.1
+  share_plus: ^12.0.2
+  cross_file: ^0.3.5+5
+  firebase_core: ^4.15.0
+  firebase_auth: ^6.7.0
+  cloud_firestore: ^6.10.0
+  shared_preferences: ^2.5.5
+  firebase_storage: ^13.0.2
+  crypto: ^3.0.3
+  url_launcher: ^6.3.2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  flutter_lints: ^6.0.0
+
+  # App Launcher Icon
+  flutter_launcher_icons: ^0.14.4
+
+# Launcher Icon Configuration
+flutter_launcher_icons:
+  android: true
+  ios: true
+  image_path: "assets/images/StayMitra.png"
+  min_sdk_android: 21
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/images/StayMitra.png

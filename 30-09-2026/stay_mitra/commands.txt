@@ -1,0 +1,23 @@
+  512  flutter run
+  513  flutter pub add firebase_core
+  514  flutter pub add firebase_auth
+  515  firebase --version
+  516  firebase login
+  517  firebase login:list
+  518  firebase login:add
+  519  firebase login:list
+  520  firebase login:use
+  521  firebase login:use staymitraworld@gmail.com
+  522  firebase login:list
+  523  firebase projects:list
+  524  history
+  
+  525  dart pub global activate flutterfire_cli
+  526  flutterfire configure
+  527  export PATH="$PATH:/c/Users/svred/AppData/Local/Pub/Cache/bin"
+  528  flutterfire --version
+  529  ls -la /c/Users/svred/AppData/Local/Pub/Cache/bin/
+  530  dart pub global run flutterfire_cli:flutterfire --version
+  531  dart pub global run flutterfire_cli:flutterfire configure
+  532  history
+
