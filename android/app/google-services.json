@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "342207930624",
+    "project_id": "stay-mitra-20604",
+    "storage_bucket": "stay-mitra-20604.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:342207930624:android:93173760ca87ff909553e5",
+        "android_client_info": {
+          "package_name": "com.example.stay_mitra"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCF-auHY3xoOrTbu3-YAP513cFCOhLqdmM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
